@@ -1,2 +1,2 @@
 # Assignment
-All assignment task for Full Stack ASP.NET MVC Course.
+All assignment task included for Full Stack ASP.NET MVC Course.
