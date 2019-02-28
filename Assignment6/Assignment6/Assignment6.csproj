@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ByFileExtension.cs" />
+    <Compile Remove="Dictionary.cs" />
+    <Compile Remove="HashSet.cs" />
+    <Compile Remove="LikedListNode1.cs" />
+    <Compile Remove="LinkList.cs" />
+    <Compile Remove="List.cs" />
+    <Compile Remove="Queue.cs" />
+    <Compile Remove="SortedDictionary.cs" />
+    <Compile Remove="SortedList.cs" />
+    <Compile Remove="SortedSet.cs" />
+    <Compile Remove="Stack.cs" />
+  </ItemGroup>
+
+</Project>
