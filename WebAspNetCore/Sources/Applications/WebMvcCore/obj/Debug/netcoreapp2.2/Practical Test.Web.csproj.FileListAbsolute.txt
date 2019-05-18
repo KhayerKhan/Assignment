@@ -1,0 +1,6 @@
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Sources\Applications\WebMvcCore\obj\Debug\netcoreapp2.2\Practical Test.Web.csprojAssemblyReference.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Sources\Applications\WebMvcCore\obj\Debug\netcoreapp2.2\Practical Test.Web.csproj.CoreCompileInputs.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Sources\Applications\WebMvcCore\obj\Debug\netcoreapp2.2\Practical Test.Web.RazorAssemblyInfo.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Sources\Applications\WebMvcCore\obj\Debug\netcoreapp2.2\Practical Test.Web.RazorAssemblyInfo.cs
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Sources\Applications\WebMvcCore\obj\Debug\netcoreapp2.2\Practical Test.Web.AssemblyInfoInputs.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Sources\Applications\WebMvcCore\obj\Debug\netcoreapp2.2\Practical Test.Web.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\Final.csprojAssemblyReference.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\Final.csproj.CoreCompileInputs.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\Final.AssemblyInfoInputs.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\Final.AssemblyInfo.cs

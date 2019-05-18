@@ -1,0 +1,11 @@
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\Lib1.Tests.deps.json
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\Lib1.Tests.runtimeconfig.json
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\Lib1.Tests.runtimeconfig.dev.json
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\bin\Debug\netcoreapp2.2\Lib1.Tests.dll
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\obj\Debug\netcoreapp2.2\Lib1.Tests.csprojAssemblyReference.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\obj\Debug\netcoreapp2.2\Lib1.Tests.csproj.CoreCompileInputs.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\obj\Debug\netcoreapp2.2\Lib1.Tests.AssemblyInfoInputs.cache
+I:\asp.netProject\Asp.netCoreProject\WebAspNetCore\Tests\Lib1.Tests\obj\Debug\netcoreapp2.2\Lib1.Tests.AssemblyInfo.cs

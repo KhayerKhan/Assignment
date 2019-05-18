@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Save";
+}
+
+<h1>Entry Student</h1>
+<div class="container">
+    <div>@ViewBag.msg</div>
+    <div class="form-group">
+        <form method="post" class="form-group">
+            <label for="Name" class="form-group">Name</label>
+            <input type="text" class="form-control" id="txtName" />
+
+            <label for="Department" class="form-group">Department</label>
+            <input type="text" class="form-control" id="Department" />
+
+            <label for="Email" class="form-group">Email</label>
+            <input type="text" class="form-control" id="txtEmail" />
+
+            <label for="Address" class="form-group">Address</label>
+            <input type="text" class="form-control" id="txtAddress" />
+       
+            <button type="submit" class="btn btn-success form-group form-control">Save</button>
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,6 @@
+D:\TestProject\WebAspNetCore\Libraries\LibPrj1\bin\Debug\netstandard2.0\LibPrj1.deps.json
+D:\TestProject\WebAspNetCore\Libraries\LibPrj1\bin\Debug\netstandard2.0\LibPrj1.dll
+D:\TestProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\LibPrj1.csprojAssemblyReference.cache
+D:\TestProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\LibPrj1.csproj.CoreCompileInputs.cache
+D:\TestProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\LibPrj1.AssemblyInfoInputs.cache
+D:\TestProject\WebAspNetCore\Libraries\LibPrj1\obj\Debug\netstandard2.0\LibPrj1.AssemblyInfo.cs
